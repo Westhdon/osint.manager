@@ -1,3 +1,5 @@
+[![Stars](https://img.shields.io/github/stars/Westhdon/OSINT-Manager?style=social)](https://github.com/Westhdon/OSINT-Manager)
+
 # OSINT Manager
 
 A command-line program to manage OSINT data and perform searches using several popular tools.
