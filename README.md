@@ -1,4 +1,5 @@
 [![Stars](https://img.shields.io/github/stars/Westhdon/OSINT-Manager?style=social)](https://github.com/Westhdon/OSINT-Manager)
+[![Follow](https://img.shields.io/github/followers/Westhdon?style=social)](https://github.com/Westhdon)
 
 # OSINT Manager
 
