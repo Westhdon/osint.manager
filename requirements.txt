@@ -1,0 +1,14 @@
+# Core OSINT Manager dependencies
+holehe
+requests
+python-whois
+httpx
+trio
+beautifulsoup4
+termcolor
+# DNS lookups (optional but recommended):
+# install dnspython to enable MX/NS queries
+# pip install dnspython
+
+# Optional packages for additional tools
+shodan

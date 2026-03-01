@@ -1,0 +1,3 @@
+Please read this before usage.
+
+https://github.com/Westhdon/OSINT-Manager/blob/main/README.md
