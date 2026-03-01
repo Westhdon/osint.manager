@@ -1,20 +1,11 @@
 <div align="center">
 
-<iframe
-  src="https://ghbtns.com/github-btn.html?user=Westhdon&repo=OSINT-Manager&type=star&count=true"
-  frameborder="0"
-  scrolling="0"
-  width="120"
-  height="20">
-</iframe>
+![Stars](https://img.shields.io/github/stars/Westhdon/OSINT-Manager?style=flat-square)
+![Forks](https://img.shields.io/github/forks/Westhdon/OSINT-Manager?style=flat-square)
+![Issues](https://img.shields.io/github/issues/Westhdon/OSINT-Manager?style=flat-square)
+![License](https://img.shields.io/github/license/Westhdon/OSINT-Manager?style=flat-square)
 
-<iframe
-  src="https://ghbtns.com/github-btn.html?user=Westhdon&type=follow&count=true"
-  frameborder="0"
-  scrolling="0"
-  width="170"
-  height="20">
-</iframe>
+[Follow Me →](https://github.com/Westhdon)
 
 </div>
 
