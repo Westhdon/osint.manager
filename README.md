@@ -1,7 +1,35 @@
+<div align="center">
+
+<iframe
+  src="https://ghbtns.com/github-btn.html?user=Westhdon&repo=OSINT-Manager&type=star&count=true"
+  frameborder="0"
+  scrolling="0"
+  width="120"
+  height="20">
+</iframe>
+
+<iframe
+  src="https://ghbtns.com/github-btn.html?user=Westhdon&type=follow&count=true"
+  frameborder="0"
+  scrolling="0"
+  width="170"
+  height="20">
+</iframe>
+
+</div>
+
+<div align="center">
+
+# 🔍 OSINT-Manager
+
+Open-source intelligence toolkit for investigation & research
+
 [![Stars](https://img.shields.io/github/stars/Westhdon/OSINT-Manager?style=social)](https://github.com/Westhdon/OSINT-Manager)
 [![Follow](https://img.shields.io/github/followers/Westhdon?style=social)](https://github.com/Westhdon)
 
-# OSINT Manager
+</div>
+
+# About
 
 A command-line program to manage OSINT data and perform searches using several popular tools.
 
