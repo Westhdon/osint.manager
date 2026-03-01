@@ -46,4 +46,12 @@ Additional OSINT integrations can be added by implementing new methods in `OSINT
 
 ---
 
+Trying to implement frequent updates!
+
 This project is a starting point for a more comprehensive OSINT CLI toolkit. Contributions and improvements are welcome!
+
+This project is under the MIT license.
+
+Note this project is mostly "vibe-coded".
+
+This project is for EDUCATIONAL PURPOSES ONLY!
