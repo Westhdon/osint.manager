@@ -9,24 +9,56 @@ popular tools.
 FEATURES
 ================================================================================
 
-- Create and manage simple JSON-backed databases of records
-- Holehe email enumeration (fully integrated - requires holehe package)
-- HaveIBeenPwned breach lookup
-- WHOIS domain lookup
-- DNS lookup (A, MX, NS records; install dnspython for full functionality)
-- IP geolocation via the free ip-api.com service
-- Social Media Lookback - Open whopostedwhat.com to search historical 
-  social media posts
-- Subdomain Enumeration - Find hidden subdomains using Certificate Transparency 
-  logs and DNS brute force
-- Person Search & OSINT - Multiple methods to research people:
-  * Search by name across social platforms
-  * Search by username with automatic profile verification
-  * Search by phone number (with links to lookup services)
-  * Search by email to find associated social profiles
-  * Reverse phone lookup tools
-- Configuration menu for storing API keys (HIBP, Shodan, etc.)
-- Save all scan results into selected databases for future reference
+Database Management
+  - Create and manage simple JSON-backed databases of records
+  - Persist OSINT research data for future reference
+
+Email Analysis Tools
+  - Holehe email enumeration (fully integrated - requires holehe package)
+  - Search email addresses across 100+ platforms
+  - HaveIBeenPwned breach lookup - Check if emails appear in known breaches
+  - Email verification - Check email format and MX records for deliverability
+  - Batch email lookups - Check multiple emails simultaneously
+
+Domain & Network Intelligence
+  - WHOIS domain lookup - Get registrant and technical information
+  - DNS lookup (A, MX, NS records; install dnspython for full functionality)
+  - Reverse IP lookup - Find domains/services hosted on an IP
+  - Reverse DNS lookup - Get hostname from IP address
+  - SSL certificate lookup - Extract certificate information from domains
+  - Subdomain enumeration - Find hidden subdomains using CT logs and DNS brute force
+  - Email finder by domain - Discover emails associated with company domains
+
+People & Username Intelligence
+  - Person search & OSINT - Multiple research methods:
+    * Search by name across social platforms
+    * Search by username with automatic profile verification
+    * Search by phone number (with links to lookup services)
+    * Search by email to find social profiles
+    * Reverse phone lookup tools
+  - Username availability checker - Check if username exists on 15+ platforms
+    (Twitter, Instagram, GitHub, Reddit, YouTube, Twitch, TikTok, Discord, etc.)
+
+Location & IP Analysis
+  - IP geolocation via free ip-api.com service
+  - Find geographic location and ISP information
+
+Social Media & Web Intelligence
+  - Social Media Lookback - Access whopostedwhat.com for historical posts
+  - Social media profiling tools
+
+Advanced Tools & Batch Operations
+  - Advanced search tools submenu (Reverse IP, SSL, Email verification, etc.)
+  - Batch operations menu:
+    * Batch email breach lookup
+    * Generate comprehensive OSINT reports
+    * Export data to CSV/JSON formats
+  - Report generation - Create detailed OSINT reports from database
+  - Data export - Extract all records for external analysis
+
+Configuration & API Management
+  - Configuration menu for storing API keys (HIBP, Shodan, etc.)
+  - Manage credentials securely in config.json
 
 ================================================================================
 INSTALLATION
@@ -67,8 +99,19 @@ MAIN MENU OPTIONS:
 8. Subdomain Enumeration - Discover hidden subdomains and enumerate potential 
    attack surfaces
 9. Person Search & OSINT - Research individuals through multiple methods
-10. Configuration - Set up API keys for enhanced functionality
-11. Exit - Close the application
+10. Advanced Search Tools - Specialized tools including:
+    * Reverse IP Lookup - Find services hosted on an IP
+    * SSL Certificate Lookup - Extract certificate information
+    * Email Verification - Check email delivery capability
+    * Username Availability Checker - Check 15+ platforms for username
+    * Email Finder by Domain - Find emails associated with domains
+    * Reverse DNS Lookup - Get hostname from IP
+11. Batch Operations - Bulk operations including:
+    * Batch Email Breach Lookup - Check multiple emails at once
+    * Generate OSINT Report - Create comprehensive research reports
+    * Export to CSV - Extract all data for external analysis
+12. Configuration - Set up API keys for enhanced functionality
+13. Exit - Close the application
 
 Navigate the menus to manage databases or perform OSINT queries. When 
 performing scans, you can save positive results to a database for later review.
