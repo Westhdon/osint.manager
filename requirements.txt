@@ -6,9 +6,19 @@ httpx
 trio
 beautifulsoup4
 termcolor
-# DNS lookups (optional but recommended):
-# install dnspython to enable MX/NS queries
-# pip install dnspython
+
+# DNS lookups and advanced features
+dnspython
+cryptography
 
 # Optional packages for additional tools
 shodan
+
+# Data processing and export
+pandas
+openpyxl
+
+# Additional utilities
+certifi
+colorama
+
