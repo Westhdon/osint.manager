@@ -1,4 +1,4 @@
-# OSINT Manager
+# osint.manager
 
 A command-line program to manage OSINT data and perform searches using several popular tools.
 
