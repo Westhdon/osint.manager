@@ -87,7 +87,7 @@ For Have I Been Pwned lookups you can set the `HIBP_API_KEY` environment variabl
 
 ## Extending the Tool
 
-Additional OSINT integrations can be added by implementing new methods in `OSINTManager` and updating the menu structure. The modular design makes it easy to plug in new lookup functions.
+Additional OSINT integrations can be added by implementing new methods in `osint.manager` and updating the menu structure. The modular design makes it easy to plug in new lookup functions.
 
 ## New Advanced Features (Latest Update)
 
